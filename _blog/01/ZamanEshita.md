@@ -1,4 +1,6 @@
 ---
+author:"Eshita Zaman"
+title: "Summation Series in R"
 layout: blog
 topic: "01"
 short-topic: Asking Good Questions
